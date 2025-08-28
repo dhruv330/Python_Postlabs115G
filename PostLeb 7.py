@@ -29,4 +29,5 @@ print("Array of zeros:\n", np.zeros((3, 3), dtype=int))
 
 # Write a NumPy program to find the 4th element of a specified array.
 arr = np.array([10, 20, 30, 40, 50])
-print("4th element:", arr[3])  # index starts from 0
+
+print("4th element:", arr[3])  
